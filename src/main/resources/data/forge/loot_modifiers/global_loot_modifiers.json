@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "entries": [
+    "farm_utils:ender_spore_seeds_from_grass",
+    "farm_utils:flax_seeds_from_grass",
+    "farm_utils:rice_seeds_from_grass",
+    "farm_utils:strawberry_seeds_from_grass"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:grass"
+    }
+  ],
+  "addition": "farm_utils:strawberry_seeds",
+  "type": "farm_utils:strawberry_seeds_from_grass"
+}
