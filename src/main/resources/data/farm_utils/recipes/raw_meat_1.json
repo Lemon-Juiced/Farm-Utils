@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C"
+  ],
+  "key": {
+    "#": {
+      "item": "farm_utils:meat_grinder"
+    },
+    "C": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "farm_utils:raw_meat",
+    "count": 3
+  }
+}

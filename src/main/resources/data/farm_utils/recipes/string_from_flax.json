@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farm_utils:flax"
+    },
+    {
+      "item": "farm_utils:flax"
+    },
+    {
+      "item": "farm_utils:flax"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string"
+  }
+}

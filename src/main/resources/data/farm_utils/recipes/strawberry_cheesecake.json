@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farm_utils:cheese"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "farm_utils:strawberry"
+    }
+  ],
+  "result": {
+    "item": "farm_utils:strawberry_cheesecake",
+    "count": 1
+  }
+}

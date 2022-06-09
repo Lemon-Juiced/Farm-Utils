@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "item": "farm_utils:rice_slimeball",
+    "count": 4
+  }
+}

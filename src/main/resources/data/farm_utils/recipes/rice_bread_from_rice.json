@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "farm_utils:rice"
+    },
+    {
+      "item": "farm_utils:rice"
+    }
+  ],
+  "result": {
+    "item": "farm_utils:rice_bread"
+  }
+}
