@@ -5,6 +5,7 @@
   "item.farm_utils.chocolate_milk": "Chocolate Milk",
   "item.farm_utils.chocolate_ice_cream": "Chocolate Ice Cream",
   "item.farm_utils.cooked_chicken_nugget": "Cooked Chicken Nugget",
+  "item.farm_utils.cooked_meat": "Cooked Meat",
   "item.farm_utils.ender_spore": "Ender Spore",
   "item.farm_utils.ender_spore_seeds": "Ender Spore Seeds",
   "item.farm_utils.flax": "Flax",
@@ -19,6 +20,7 @@
   "item.farm_utils.pan": "Pan",
   "item.farm_utils.pot": "Pot",
   "item.farm_utils.raw_chicken_nugget": "Raw Chicken Nugget",
+  "item.farm_utils.raw_meat": "Raw Meat",
   "item.farm_utils.rice": "Rice",
   "item.farm_utils.rice_bread": "Rice Bread",
   "item.farm_utils.rice_slimeball": "Rice Slimeball",
@@ -28,5 +30,14 @@
   "item.farm_utils.strawberry_seeds": "Strawberry Seeds",
   "item.farm_utils.toast": "Toast",
   "item.farm_utils.vanilla_ice_cream": "Vanilla Ice Cream",
-  "item.farm_utils.yogurt": "Yogurt"
+  "item.farm_utils.yogurt": "Yogurt",
+
+  "block.farm_utils.black_lotus": "Black Lotus",
+  "block.farm_utils.cooked_meat_block": "Cooked Meat Block",
+  "block.farm_utils.ender_spore_plant": "Ender Spore Plant",
+  "block.farm_utils.flax_plant": "Flax Plant",
+  "block.farm_utils.potted_black_lotus": "Potted Black Lotus",
+  "block.farm_utils.rice_plant": "Rice Plant",
+  "block.farm_utils.strawberry_plant": "Strawberry Plant",
+  "block.farm_utils.raw_meat_block": "Raw Meat Block"
 }
